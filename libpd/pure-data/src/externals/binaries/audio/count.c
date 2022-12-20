@@ -5,7 +5,7 @@
 //updating argument parsing on object creation and adding autoreset attribute - Derek Kwan 2016
 #include <string.h>
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 
 #define COUNTMAXINT 0x7fffffff
 

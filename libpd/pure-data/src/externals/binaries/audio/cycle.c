@@ -7,8 +7,8 @@
 #include <math.h>
 #include <stdlib.h>
 #include "m_pd.h"
-#include <common/api.h>
-//#include "cybuf.h"
+#include <api.h>
+#include "cybuf.h"
 
 #define CYCYCLE_FREQ 	0
 #define CYCYCLE_OFFSET 0

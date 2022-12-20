@@ -6,7 +6,7 @@
    The most important changes are listed in "pd-lib-notes.txt" file.  */
 
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 
 typedef struct _bucket
 {

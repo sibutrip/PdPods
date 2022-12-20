@@ -3,8 +3,8 @@
  * WARRANTIES, see the file, "LICENSE.txt," in this distribution.  */
 
 #include "m_pd.h"
-#include <common/api.h>
-#include "common/magicbit.h"
+#include <api.h>
+#include "magicbit.h"
 #include <string.h>
 
 #define DELAY_DEFMAXSIZE  512 // default buffer size

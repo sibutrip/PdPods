@@ -1,7 +1,7 @@
 //2016 by Derek Kwan
 
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 #include <math.h>
 #include <string.h>
 #include <ctype.h>

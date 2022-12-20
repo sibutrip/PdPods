@@ -3,7 +3,7 @@
  * WARRANTIES, see the file, "LICENSE.txt," in this distribution.  */
 
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 
 typedef struct _delta
 {

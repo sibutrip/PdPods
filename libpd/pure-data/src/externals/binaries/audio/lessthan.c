@@ -1,7 +1,7 @@
 // Copyright (c) 2016 Porres.
 
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 
 // ---------------------------------------------------
 // Class definition

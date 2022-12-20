@@ -23,8 +23,8 @@ the beginning of the ramp to default to the end of the whole array, right?
  
 #include "m_pd.h"
 #include "m_imp.h"
-#include "signal/cybuf.h"
-#include <common/api.h>
+#include "cybuf.h"
+#include <api.h>
 
 #define DRAWMS  500. // refractory period in ms
 

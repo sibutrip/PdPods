@@ -1,8 +1,8 @@
 // based on selector~
 
 #include "m_pd.h"
-#include <common/api.h>
-#include "common/magicbit.h"
+#include <api.h>
+#include "magicbit.h"
 //#include <math.h>
 
 

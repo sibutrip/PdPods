@@ -14,7 +14,7 @@
 #include <string.h>
 
 #include "m_pd.h"
-#include <common/api.h>
+#include <api.h>
 #include <math.h>
 
 
