@@ -83,7 +83,6 @@
 		74D2B9662950F46C00724598 /* scale.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B9652950F46C00724598 /* scale.c */; };
 		74D2B9682950F4B000724598 /* poke.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B9672950F4B000724598 /* poke.c */; };
 		74D2B96A2950F57900724598 /* gate.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B9692950F57900724598 /* gate.c */; };
-		74D2B96C2950F71C00724598 /* lessthan.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B96B2950F71C00724598 /* lessthan.c */; };
 		74D2B96E2950F72200724598 /* greaterthan.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B96D2950F72200724598 /* greaterthan.c */; };
 		74D2B9702950FCFB00724598 /* click.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B96F2950FCFB00724598 /* click.c */; };
 		74D2B972295103D900724598 /* edge.c in Sources */ = {isa = PBXBuildFile; fileRef = 74D2B971295103D900724598 /* edge.c */; };
@@ -262,7 +261,6 @@
 		74D2B9652950F46C00724598 /* scale.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = scale.c; path = "pure-data/src/externals/binaries/control/scale.c"; sourceTree = "<group>"; };
 		74D2B9672950F4B000724598 /* poke.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = poke.c; path = "pure-data/src/externals/binaries/audio/poke.c"; sourceTree = "<group>"; };
 		74D2B9692950F57900724598 /* gate.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = gate.c; path = "pure-data/src/externals/binaries/audio/gate.c"; sourceTree = "<group>"; };
-		74D2B96B2950F71C00724598 /* lessthan.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = lessthan.c; path = "pure-data/src/externals/binaries/audio/lessthan.c"; sourceTree = "<group>"; };
 		74D2B96D2950F72200724598 /* greaterthan.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = greaterthan.c; path = "pure-data/src/externals/binaries/audio/greaterthan.c"; sourceTree = "<group>"; };
 		74D2B96F2950FCFB00724598 /* click.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = click.c; path = "pure-data/src/externals/binaries/audio/click.c"; sourceTree = "<group>"; };
 		74D2B971295103D900724598 /* edge.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = edge.c; path = "pure-data/src/externals/binaries/audio/edge.c"; sourceTree = "<group>"; };
@@ -390,7 +388,6 @@
 				74D2B971295103D900724598 /* edge.c */,
 				74D2B96F2950FCFB00724598 /* click.c */,
 				74D2B96D2950F72200724598 /* greaterthan.c */,
-				74D2B96B2950F71C00724598 /* lessthan.c */,
 				74D2B9692950F57900724598 /* gate.c */,
 				74D2B9672950F4B000724598 /* poke.c */,
 				74D2B9652950F46C00724598 /* scale.c */,
@@ -842,7 +839,6 @@
 				E069708C39F4EBF4C915AEC5FF1EC851 /* s_audio_dummy.c in Sources */,
 				219BBD028885A15AE7B18F2325DD8098 /* s_inter.c in Sources */,
 				386969B60A16749F701F5AC8B040934B /* s_inter_gui.c in Sources */,
-				74D2B96C2950F71C00724598 /* lessthan.c in Sources */,
 				736FA1F410C14ED29DFA0FEA63F63170 /* s_libpdmidi.c in Sources */,
 				D523C248CA6ADB23F854E5F2B03DD0F5 /* s_loader.c in Sources */,
 				74D2B9742951051F00724598 /* rampsmooth.c in Sources */,
